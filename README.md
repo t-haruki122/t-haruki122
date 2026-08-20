@@ -3,12 +3,13 @@
 
 ### About Me
 
-I'm an information engineering undergrad.  
-I like figuring out how systems work from the bottom up — and I like them even better when I can automate them.  
+情報工学を学んでいる学部4年生です。  
+低レイヤから仕組みを理解することに関心があり、理解した処理を自動化することに面白さを感じています。  
+音楽情報処理関連の研究をしています。  
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-haruki122&layout=compact&theme=tokyonight&hide=jupyter%20notebook,shaderlab,tex,c%23,html&langs_count=8" />
 
-#### Tech Stack (Software Development)
+### Tech Stack (Software Development)
 
 | Category       | Details                          |
 | -------------- | -------------------------------- |
@@ -17,10 +18,17 @@ I like figuring out how systems work from the bottom up — and I like them even
 | Tools          | Git / GitHub / Linux             |
 | Cloud Service  | GCP / AWS / Oracle Cloud         |
 
-#### Tech Stack (Signal processing & ML)
+### Tech Stack (Signal processing & ML)
 
 | Category          | Details                              |
 | ----------------- | ------------------------------------ |
 | AI & ML           | PyTorch / Hugging Face / PEFT / LoRA |
 | Signal Processing | Librosa / MATLAB                     |
 | Audio Tools       | Cubase / Studio One                  |
+
+### Certifications & Awards
+
+- 名城大学プログラミングコンテスト2023 第2回 第3位 (2023)
+- TOEIC L&R 820点 — 学部表彰・学長表彰 (2025)
+- 数理・データサイエンス・AI教育プログラム 応用基礎レベル 修了 (2025)
+- 基本情報技術者試験 合格 (2026)
