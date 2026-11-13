@@ -4,8 +4,7 @@
 ### About Me
 
 情報工学を学んでいる学部4年生です。  
-音楽情報処理関連の研究をしています。  
-来年度から名古屋大学大学院に進学予定です。  
+音楽情報処理関連の研究をしています。   
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-haruki122&layout=compact&theme=tokyonight&hide=jupyter%20notebook,shaderlab,tex,c%23,html&langs_count=8" />
 
