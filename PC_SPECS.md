@@ -41,6 +41,27 @@
 | PSU           | 玄人志向 STANDARD 500W                             |
 | OS            | Proxmox VE 9.2 (Debian 13 trixie)              |
 
+## Electronics
+
+電子工作用のマイコン・SBCです。
+
+| Board                    | Qty |
+| ------------------------ | --- |
+| Raspberry Pi Zero 2 W    | 1   |
+| Raspberry Pi Pico 2 WH   | 1   |
+| ESP32-C3                 | 2   |
+
+## Peripherals
+
+| Category         | Details                                           |
+| ---------------- | ------------------------------------------------- |
+| Monitor 1        | I-O DATA GigaCrysta EX-LDGC241UDB 23.8" FHD 240Hz |
+| Monitor 2        | Dell S2721QS 27" 4K IPS                           |
+| Monitor 3        | MSI PRO MP2412 23.8" FHD 100Hz VA                 |
+| Audio Interface  | TASCAM US-2x2HR                                   |
+| Microphone       | Audio-Technica AT2020USB+                         |
+| Webcam           | Logicool C920n                                    |
+
 *Last updated: 2026-11*
 
 [← Back to profile](https://github.com/t-haruki122)
