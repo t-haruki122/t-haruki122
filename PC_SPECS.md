@@ -1,5 +1,7 @@
 # PC Specs
 
+## Main PC
+
 メインで使っているデスクトップPCの構成です。
 
 | Part          | Details                                        |
@@ -12,6 +14,32 @@
 | Storage 2     | Crucial MX500 1TB (SATA)                       |
 | PSU           | ASRock Challenger 750W (80PLUS GOLD / ATX 3.1) |
 | OS            | Windows 11 Home                                |
+
+## AI Server (Ubuntu)
+
+| Part          | Details                                        |
+| ------------- | ---------------------------------------------- |
+| CPU           | AMD Ryzen 5 3500 (6 Cores / 6 Threads)         |
+| GPU           | NVIDIA GeForce RTX 3070 Ti (8GB)               |
+| Motherboard   | MSI A520M-A PRO                                |
+| Memory        | 32GB (16GB x 2) DDR4-2666                      |
+| Storage 1     | WD Blue SN550 500GB (NVMe M.2)                 |
+| Storage 2     | WD Blue 4TB HDD (SATA)                         |
+| PSU           | 玄人志向 KRPW-GS750W/90+ (80PLUS GOLD / Full Modular) |
+| OS            | Ubuntu 22.04.5 LTS                             |
+
+## Homelab (Proxmox)
+
+| Part          | Details                                        |
+| ------------- | ---------------------------------------------- |
+| CPU           | Intel Celeron G5925 (2 Cores / 2 Threads)      |
+| GPU           | AMD Radeon RX 6600 XT (8GB)                    |
+| Motherboard   | MSI H510M PRO-E                                |
+| Memory        | 16GB                                           |
+| Storage 1     | CFD CG4VX 240GB (SATA SSD)                     |
+| Storage 2     | 128GB SATA SSD                                 |
+| PSU           | 玄人志向 STANDARD 500W                             |
+| OS            | Proxmox VE 9.2 (Debian 13 trixie)              |
 
 *Last updated: 2026-11*
 
