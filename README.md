@@ -6,28 +6,21 @@
 情報工学を学んでいる学部4年生です。  
 音楽情報処理関連の研究をしています。   
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-haruki122&layout=compact&theme=tokyonight&hide=jupyter%20notebook,shaderlab,tex,c%23,html&langs_count=8" />
+### Tech Stack
 
-### Tech Stack (Software Development)
-
-| Category       | Details                          |
-| -------------- | -------------------------------- |
-| Languages      | Python (main) / C# / Dart / Java |
-| App Dev        | Unity / Flutter / Android Studio |
-| Tools          | Git / GitHub / Linux             |
-| Cloud Service  | GCP / AWS / Oracle Cloud         |
-
-### Tech Stack (Signal processing & ML)
-
-| Category          | Details                              |
-| ----------------- | ------------------------------------ |
-| AI & ML           | PyTorch / Hugging Face / PEFT / LoRA |
-| Signal Processing | Librosa / MATLAB                     |
-| Audio Tools       | Cubase / Studio One                  |
+| Category | Stack |
+| :-- | :-- |
+| Languages | <img src="https://skillicons.dev/icons?i=py,cs,dart,java" height="40"> |
+| App Dev | <img src="https://skillicons.dev/icons?i=unity,flutter,androidstudio" height="40"> |
+| Tools | <img src="https://skillicons.dev/icons?i=git,github,linux" height="40"> |
+| Cloud | <img src="https://skillicons.dev/icons?i=gcp,aws" height="40"> <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge" height="28"> |
+| AI & ML | <img src="https://skillicons.dev/icons?i=pytorch" height="40"> <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="28"> |
+| Signal Processing | <img src="https://skillicons.dev/icons?i=matlab" height="40"> <img src="https://img.shields.io/badge/Librosa-4B8BBE?style=for-the-badge" height="28"> |
+| Audio Tools | <img src="https://img.shields.io/badge/Cubase-222222?style=for-the-badge" height="28"> <img src="https://img.shields.io/badge/Studio_One-1E5AA8?style=for-the-badge" height="28"> |
 
 ### My Setup
 
-[PC Specs](https://github.com/t-haruki122/t-haruki122/blob/main/PC_SPECS.md) — Ryzen 7 5700X / RTX 3080 / 32GB RAM
+[PC Specs](https://github.com/t-haruki122/t-haruki122/blob/main/PC_SPECS.md)  
 
 ### Certifications & Awards
 
