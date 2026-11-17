@@ -20,7 +20,7 @@
 
 ### My Setup
 
-[PC Specs](https://github.com/t-haruki122/t-haruki122/blob/main/PC_SPECS.md)  
+[PC Specs](https://github.com/t-haruki122/t-haruki122/blob/main/PC_SPECS.md) — Main PC / AI Server / Proxmox Homelab
 
 ### Certifications & Awards
 
