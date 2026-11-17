@@ -25,6 +25,10 @@
 | Signal Processing | Librosa / MATLAB                     |
 | Audio Tools       | Cubase / Studio One                  |
 
+### My Setup
+
+[PC Specs](https://github.com/t-haruki122/t-haruki122/blob/main/PC_SPECS.md) — Ryzen 7 5700X / RTX 3080 / 32GB RAM
+
 ### Certifications & Awards
 
 - 名城大学プログラミングコンテスト2023 第2回 第3位 (2023)
