@@ -23,8 +23,8 @@
 | ------------- | ---------------------------------------------- |
 | CPU           | AMD Ryzen 5 3500 (6 Cores / 6 Threads)         |
 | GPU           | NVIDIA GeForce RTX 3070 Ti (8GB)               |
-| Motherboard   | MSI A520M-A PRO                                |
-| Memory        | 32GB (16GB x 2) DDR4-2666                      |
+| Motherboard   | MSI X470 GAMING PLUS                           |
+| Memory        | 20GB (8GB x 2 + 4GB) DDR4-2400 — Kingston / Silicon Power |
 | Storage 1     | WD Blue SN550 500GB (NVMe M.2)                 |
 | Storage 2     | WD Blue 4TB HDD (SATA)                         |
 | PSU           | 玄人志向 KRPW-GS750W/90+ (80PLUS GOLD / Full Modular) |
@@ -39,7 +39,7 @@ Proxmox VE上で、ルーター（OPNsense）やHome Assistant、Ollamaなどを
 | CPU           | Intel Celeron G5925 (2 Cores / 2 Threads)      |
 | GPU           | AMD Radeon RX 6600 XT (8GB)                    |
 | Motherboard   | MSI H510M PRO-E                                |
-| Memory        | 16GB                                           |
+| Memory        | 32GB (16GB x 2) DDR4-2666 — Samsung            |
 | Storage 1     | CFD CG4VX 240GB (SATA SSD)                     |
 | Storage 2     | 128GB SATA SSD                                 |
 | PSU           | 玄人志向 STANDARD 500W                             |
