@@ -2,7 +2,7 @@
 
 ## Main PC
 
-開発・研究・DTMまで、普段の作業をこなすメインマシンです。
+開発・研究・DTM など、普段の作業
 
 | Part          | Details                                        |
 | ------------- | ---------------------------------------------- |
@@ -17,7 +17,7 @@
 
 ## AI Server (Ubuntu)
 
-機械学習モデルの学習専用に使っているマシンです。
+機械学習モデルの学習専用サーバー
 
 | Part          | Details                                        |
 | ------------- | ---------------------------------------------- |
@@ -32,7 +32,7 @@
 
 ## Homelab (Proxmox)
 
-Proxmox VE上で、ルーター（OPNsense）やHome Assistant、Ollamaなどを LXC / VM で動かしている自宅サーバーです。
+Proxmox VE上で、ルーター（OPNsense）やHome Assistant、Ollamaなどを LXC / VM で動かしている自宅サーバー
 
 | Part          | Details                                        |
 | ------------- | ---------------------------------------------- |
@@ -47,7 +47,7 @@ Proxmox VE上で、ルーター（OPNsense）やHome Assistant、Ollamaなどを
 
 ## Electronics
 
-電子工作用のマイコン・SBCです。
+電子工作用のマイコン・SBC
 
 | Board                    | Qty |
 | ------------------------ | --- |
